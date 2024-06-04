@@ -6,7 +6,9 @@ So far there is not so much to see here, but this github presence is not done, s
 </br>
 **What you can find here** </br>
 🎮 Fancy a game of [Tic Tac Toe](https://github.com/pcfisch/tic-tac-toe)? Grab a player and have fun! </br>
+🏘️ EDA practice on housing </br>
 ⏳ Currently working on a machine learning project...
+
 <!--
 **pcfisch/pcfisch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
